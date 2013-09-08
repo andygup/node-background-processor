@@ -12,7 +12,7 @@ var childProcess = require("child_process"),
 
 var data = {
     "start":true,
-    "interval": 5000,
+    "interval": 5000,/* Change this after testing. Recommend 60 * 60 * 1000 */
     "content": _httpRequestArray
 }
 
