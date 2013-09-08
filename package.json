@@ -1,0 +1,8 @@
+{
+    "name": "test",
+    "dependencies":{
+        "express":"3.x",
+        "xml2js":">=0.2.x",
+        "async":"*"
+    }
+}
