@@ -1,5 +1,5 @@
 var express = require('express');
-var retrieve = require("./src/retrieve");
+var retrieve = require("./src/retriever");
 var app = express();
 
 var childProcess = require("child_process"),
